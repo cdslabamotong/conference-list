@@ -1,86 +1,47 @@
-// This is the place to place Bootstrap-related CSS customizations.
-// As example you can start by importing the _bootswatch.scss file from one of the
-// theme provided by https://bootswatch.com .
-
-// Litera 4.3.1
+// Flatly 4.3.1
 // Bootswatch
 
 
 // Variables ===================================================================
 
-$font-family-serif:      Georgia, Cambria, "Times New Roman", Times, serif !default;
+$web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic" !default;
+@import url($web-font-path);
 
-// Navbar ======================================================================
+// Navbar =======================================================================
 
-.navbar {
-  font-size: 0.875em;
+.bg-primary {
+  .navbar-nav .active > .nav-link {
+    color: $success !important;
+  }
 }
 
 .bg-dark {
   background-color: $success !important;
-}
-
-.bg-light {
-  background-color: #fff !important;
-  border: 1px solid rgba(0, 0, 0, 0.1);
-
-  &.navbar-fixed-top {
-    border-width: 0 0 1px 0;
-  }
-
-  &.navbar-fixed-bottom {
-    border-width: 1px 0 0 0;
+  &.navbar-dark .navbar-nav {
+    .nav-link:focus,
+    .nav-link:hover,
+    .active > .nav-link {
+      color: $primary !important;
+    }
   }
 }
 
 // Buttons =====================================================================
 
 .btn {
-  border-radius: 1.078em;
-  font-family: $font-family-sans-serif;
-  font-size: 0.875em;
-
-  &-lg {
-    border-radius: 2.688em;
-  }
-
-  &-sm {
-    border-radius: 0.844em;
-    font-size: 0.688em;
-  }
-
   &-secondary,
   &-secondary:hover,
   &-warning,
   &-warning:hover {
-    color: $white;
+    color: #fff;
   }
 }
 
 // Typography ==================================================================
 
-p {
-  font-family: $font-family-serif;
-}
-
-blockquote {
-  font-style: italic;
-}
-
-footer {
-  font-size: 0.875em;
-}
-
-.lead {
-  color: $gray-600;
-  font-family: $font-family-sans-serif;
-}
-
 // Tables ======================================================================
 
-table,
 .table {
-  font-size: 0.875em;
 
   &-primary,
   &-secondary,
@@ -90,9 +51,6 @@ table,
   &-danger {
     color: #fff;
   }
-}
-
-.table {
 
   &-primary {
     &, > th, > td {
@@ -211,37 +169,56 @@ table,
 
 // Navs ========================================================================
 
-.nav,
-.breadcrumb,
-.pagination {
-  font-size: 0.875em;
+.nav-tabs {
+  .nav-link.active,
+  .nav-link.active:focus,
+  .nav-link.active:hover,
+  .nav-item.open .nav-link,
+  .nav-item.open .nav-link:focus,
+  .nav-item.open .nav-link:hover {
+    color: $primary;
+  }
 }
 
-.dropdown-menu {
-  font-size: 0.875em;
+.pagination {
+  a:hover {
+    text-decoration: none;
+  }
 }
 
 // Indicators ==================================================================
 
+.close {
+  text-decoration: none;
+  opacity: 0.4;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
+}
+
+.badge {
+  &-secondary,
+  &-warning {
+    color: #fff;
+  }
+}
+
 .alert {
   border: none;
   color: $white;
-  font-size: 0.875em;
 
-  &, p {
-    font-family: $font-family-sans-serif;
-  }
-
-  a, .alert-link {
+  a,
+  .alert-link {
     color: #fff;
-    font-weight: normal;
     text-decoration: underline;
   }
 
   @each $color, $value in $theme-colors {
     &-#{$color} {
       @if $enable-gradients {
-        background: $value linear-gradient(0deg, mix($body-bg, $value, 15%), $value) repeat-x;
+        background: $value linear-gradient(180deg, mix($body-bg, $value, 15%), $value) repeat-x;
       } @else {
         background-color: $value;
       }
@@ -257,23 +234,14 @@ table,
   }
 }
 
-.badge {
-  vertical-align: bottom;
-
-  &-secondary,
-  &-warning {
-    color: $white;
-  }
-}
-
-.tooltip {
-  font-size: 11px;
-}
-
 // Progress bars ===============================================================
 
 // Containers ==================================================================
+.modal .close{
+  color: $black;
 
-.list-group {
-  font-size: 0.875em;
+  &:not(:disabled):not(.disabled):hover,
+  &:not(:disabled):not(.disabled):focus {
+    color: $black;
+  }
 }
