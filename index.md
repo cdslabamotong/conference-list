@@ -1,7 +1,3 @@
----
-layout: page
----
-
 ## Rumor Propagation with the Effect of Debunking Information
 --------
 
