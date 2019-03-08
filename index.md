@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rumor Propagation with the Effect of Debunking Information
+title: Rumor Difussion with the Effect of Debunking Information
 ---
 
 --------
