@@ -13,8 +13,9 @@ A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](h
 [See the website for demonstration and documentation](https://nicolas-van.github.io/bootstrap-4-github-pages/).
 
 ## Contributor
-[Chen Ling](mailto:email@example.com) 
-[Guangmo(Amo) Tong](http://udel.edu/~amotong/)
+[Chen Ling](mailto:email@example.com)   
+
+[Guangmo(Amo) Tong](http://udel.edu/~amotong/)  
 
 Computational Data Science Lab @ [UDel](https://www.cis.udel.edu/)
 
