@@ -12,9 +12,5 @@ title: Rumor Diffusion with the Effect of Debunking Information
  <br /> 
 <span style="color:darkgrey; size:2.5em; line-height:150%">For the purpose of studying the propagation of rumors on the social network, we cataloged top 216 rumor topics with total 425,333 tweets from April 2017 to September 2017 on Snopes.com, and the corpus of rumor-related tweets can also be obtained by Twitter Premium Search API. The result dataset has over 400 thousand tweets of 216 rumor topics, and the total number of involved users is 221029. For each rumor topic in our corpus, we obtained their broad thematic category from the web page on Snopes.com. The most popular rumor categories that were discussed from May to July 2017 are Politics, Fauxtography (fraudulent photography), and Junk News, which makes up approximately 65\% of the total obtained rumor topics. The collected topics are ranging from politics to some specific rumor topics like Movies or Foods.</span>
 
-![A9Xzkj.md.png](https://s2.ax1x.com/2019/03/11/A9Xzkj.md.png)
-
-![A9jK91.png](https://s2.ax1x.com/2019/03/11/A9jK91.png)
-
-<div style="text-align:center"><img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.md.png" alt="figure1" width="600"/><img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure2" width="600"/></div>   
+<div style="text-align:center"><img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.png" alt="figure1" width="600"/><img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure2" width="600"/></div>   
 
