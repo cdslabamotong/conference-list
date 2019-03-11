@@ -15,3 +15,6 @@ title: Rumor Diffusion with the Effect of Debunking Information
 ![A9Xzkj.md.png](https://s2.ax1x.com/2019/03/11/A9Xzkj.md.png)
 
 ![A9jK91.png](https://s2.ax1x.com/2019/03/11/A9jK91.png)
+
+<div style="text-align:center"><img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.md.png" alt="figure1" width="600"/><img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure2" width="600"/></div>   
+
