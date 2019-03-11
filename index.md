@@ -19,13 +19,13 @@ title: Rumor Diffusion with the Effect of Debunking Information
 <div style="text-align:center">
 <p float="left">
  <img src="https://s2.ax1x.com/2019/03/11/ACCRdf.png" alt="figure1" width="400"/>  
- <img src="https://s2.ax1x.com/2019/03/11/ACC4Jg.png" alt="figure2" width="400"/>
+ <img src="https://s2.ax1x.com/2019/03/11/ACCIzj.png" alt="figure2" width="400"/>
 </p>
 </div>
 
 <br /> 
 <span style="color:darkgrey; size:2.5em; line-height:150%">
-Identifying belief in rumors can help reveal many semantic aspects of their origination and propagation, and users' belief of a rumor may vary before and after the fact was checked. To further examine different phases of a rumor's propagation, we monitor users attitudes change in a rumor's propagation process, and the following graphs indicate the user's attitude change oppositely before and after the rumor fact was checked. 
+Identifying belief in rumors can help reveal many semantic aspects of their origination and propagation, and users' belief of a rumor may vary before and after the fact was checked. To further examine different phases of a rumor's propagation, we monitor users attitudes change in a rumor's propagation process, and the following graphs indicate the user's attitude change oppositely before and after the rumor fact was checked. Three curves reflect the positive, negative and neutral attritudes change over time of the aforementioned rumor topic in the following left graph, and right graph shows the overall sentiment change of the rumor. 
 </span>
 
 <div style="text-align:center">
@@ -34,3 +34,7 @@ Identifying belief in rumors can help reveal many semantic aspects of their orig
  <img src="https://s2.ax1x.com/2019/03/11/ACCcLt.png" alt="figure2" width="400"/>
 </p>
 </div>
+
+<br />
+
+In this paper, we are set to analyze the role of debunking information in the diffusion of online rumors. To this end, we compare the various propagation patterns and user's attitude change towards rumor cascades before and after the intervention of fact-checking information. In addition, we apply machine learning algorithms to verify the existence of the influence of debunking information.
