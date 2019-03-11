@@ -37,4 +37,6 @@ Identifying belief in rumors can help reveal many semantic aspects of their orig
 
 <br />
 
+<span style="color:darkgrey; size:2.5em; line-height:150%">
 In this paper, we are set to analyze the role of debunking information in the diffusion of online rumors. To this end, we compare the various propagation patterns and user's attitude change towards rumor cascades before and after the intervention of fact-checking information. In addition, we apply machine learning algorithms to verify the existence of the influence of debunking information.
+</span>
