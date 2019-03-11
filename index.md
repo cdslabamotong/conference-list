@@ -18,8 +18,8 @@ title: Rumor Diffusion with the Effect of Debunking Information
 
 <div style="text-align:center">
 <p float="left">
- <img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure1" width="400"/>  
- <img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.png" alt="figure2" width="400"/>
+ <img src="https://s2.ax1x.com/2019/03/11/ACCRdf.png" alt="figure1" width="400"/>  
+ <img src="https://s2.ax1x.com/2019/03/11/ACC4Jg.png" alt="figure2" width="400"/>
 </p>
 </div>
 
@@ -30,7 +30,7 @@ Identifying belief in rumors can help reveal many semantic aspects of their orig
 
 <div style="text-align:center">
 <p float="left">
- <img src="https://s2.ax1x.com/2019/03/11/ACCYs1.png" alt="figure1" width="400"/>  
- <img src="https://s2.ax1x.com/2019/03/11/ACCkGQ.png" alt="figure2" width="400"/>
+ <img src="https://s2.ax1x.com/2019/03/11/ACCrzd.png" alt="figure1" width="400"/>  
+ <img src="https://s2.ax1x.com/2019/03/11/ACCcLt.png" alt="figure2" width="400"/>
 </p>
 </div>
