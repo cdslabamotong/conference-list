@@ -15,6 +15,8 @@ title: Rumor Diffusion with the Effect of Debunking Information
  <br /> 
  <br /> 
 
+<span style="color:darkgrey; size:2.5em; line-height:150%">The following graphs illustratively present the misinformation evolution of the widely discussed rumor topic - '[Clinton/Lynch Pilot Breaks His Silence on What Was Said?](https://www.snopes.com/fact-check/clinton-lynch-pilot/)'. A rumor generally can spread rapidly at its early phase. Several comparatively large cascades are generated before the posting of debunking information like the lower left graph. However, after the intervention of debunking information, a rumor loses its ability to affect broader users since the average size of cascades drops while the total number of cascades keeps increasing.</span>
+
 <div style="text-align:center">
 <p float="left">
  <img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure1" width="400"/>  
