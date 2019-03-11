@@ -16,6 +16,7 @@ title: Rumor Diffusion with the Effect of Debunking Information
  <br /> 
 
 <p float="left">
- <img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.png" alt="figure1" width="400"/>
- <img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure2" width="400"/>  
+ <img src="https://s2.ax1x.com/2019/03/11/A9jK91.png" alt="figure1" width="400"/>  
+ <img src="https://s2.ax1x.com/2019/03/11/A9Xzkj.png" alt="figure2" width="400"/>
+
 </p>
