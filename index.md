@@ -6,7 +6,8 @@ title: Rumor Diffusion with the Effect of Debunking Information
 --------
 
 ### Contributor
-Chen Ling
+Chen Ling    
+
 Guangmo Amo Tong
 
 --------
