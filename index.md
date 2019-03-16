@@ -10,6 +10,17 @@ Chen Ling
 
 Guangmo Amo Tong
 
+| Name    | Submission | Notification | Conference             | Location                   |
+|---------|------------|--------------|------------------------|----------------------------|
+| AAAI    |            |              | Feb 7 - 12, 2020       | New York                   |
+| INFOCOM | 7/31/19    | 11/28/19     | April 27 - 30, 2020    | Beijing, China             |
+| ICDCS   | 1/5/19     | 3/28/19      | July 7 - 10, 2019      | Dallas, Texas              |
+| NIPS    | 5/16/19    | 7/15/19      | December 10 - 12, 2019 | Vancouver, Canada          |
+| ICML    | 1/18/19    | 4/24/19      | June 10 - 15, 2019     | Long Beach, CA             |
+| SIGMOD  | 10/18/18   | 1/19/18      | June 30 - July 5, 2019 | Amsterdam, The Netherlands |
+| KDD     | 2/3/19     | 4/28/19      | August 4 - 8, 2019     | Anchorage, Alaska          |
+| IJCAI   | 2/25/19    | 5/9/19       | August 10 - 16, 2019   | Macao, China               |
+
 --------
 <span style="color:darkgrey; size:2.5em; line-height:150%">Billions of data are generated from social media, such as Twitter and Facebook, which also provide a platform for fast rumor propagation. Validating the massive yet fast-spreading social media data is becoming extremely important but also challenging. By referencing the top 216 most widely spread rumors between May and July 2017 from [Snopes.com](https://www.snopes.com/), the first and largest fact-checking site online, we tracked the propagation of these rumors through millions of tweets on Twitter. In this paper, we examined the rumor cascade characteristics of both rumor and the associated debunking information. The time-series evolution of the rumors at different phases are monitored and analyzed, especially before and after rumor-busting media fact-checked the rumor. </span>
 
