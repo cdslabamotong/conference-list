@@ -1,40 +1,50 @@
+<!-- Footer -->
+<br />
+<hr>
 
-<div class="py-5 border-top">
-  <div class="container">
+<footer class="page-footer font-small teal pt-4">
 
-    <p class="h5 mb-3">{{ site.title | escape }}</p>
+    <!-- Footer Text -->
+    <div class="container-fluid text-center text-md-left">
 
-    <div class="row">
+      <!-- Grid row -->
+      <div class="row">
 
-      <div class="col-sm">
-        <ul class="list-unstyled">
-          <li>
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
-            {%- endif -%}
-          </li>
-          {%- if site.email -%}
-            <li>
-              <a href="mailto:{{ site.email }}">
-                {{ site.email }}
-              </a>
-            </li>
-          {%- endif -%}
-        </ul>
+        <!-- Grid column -->
+        <div class="col-md-6 mt-md-0 mt-3">
+
+          <!-- Content -->
+          <h5 class="text-uppercase font-weight-bold"><a href="http://udel.edu/~amotong/">Computational Data Science Lab</a></h5>
+          <p>Our research aims to better understand the process of information diffusion within the social network, especially the rumor early detection and misinformation mitigation. CDS lab's research topics are including but not limited to social network analysis, machine learning, combinatorial optimization, and pure computing theory.
+</p>
+
+        </div>
+        <!-- Grid column -->
+
+        <hr class="clearfix w-100 d-md-none pb-3">
+
+        <!-- Grid column -->
+        <div class="col-md-6 mb-md-0 mb-3">
+
+          <!-- Content -->
+          <h5 class="text-uppercase font-weight-bold"><a href="https://www.cis.udel.edu/">University of Delaware</a></h5>
+          <p>Department of Computer and Information Science</p>
+          <p>School of Engineering</p>
+
+        </div>
+        <!-- Grid column -->
+
       </div>
-
-
-      <div class="col-sm text-right">
-        <p>{{- site.description | escape -}}</p>
-
-        <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Powered by Bootstrap 4 Github Pages</a>
-        </p>
-      </div>
+      <!-- Grid row -->
 
     </div>
+    <!-- Footer Text -->
 
-  </div>
-</div>
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">© 2019 Copyright:
+      <a href="https://mdbootstrap.com/education/bootstrap/"> Chen Ling</a>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
