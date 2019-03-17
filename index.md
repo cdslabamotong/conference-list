@@ -7,7 +7,7 @@ title: Conference List for Future Reference
 
 <!--Table-->
 <div class="row justify-content-center">
-<table id="tablePreview" class="table">
+<table id="tablePreview" class="table table-hover table-striped">
 <!--Table head-->
   <thead>
     <tr>
