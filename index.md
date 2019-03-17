@@ -91,7 +91,7 @@ title: Rumor Diffusion with the Effect of Debunking Information
       <td>N/A</td>
       <td>N/A</td>
       <td>N/A</td>
-      <td>Macao, China</td>
+      <td>Taipei, China</td>
     </tr>
     <tr>
       <th scope="row">10</th>
