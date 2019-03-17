@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rumor Propagation via Social Network
+title: Conference List
 email: "lingchen@udel.edu"
 #description: >- # this means to ignore newlines until "baseurl:"
   #An Analysis of Rumor Propagation in Social Network
@@ -22,7 +22,7 @@ email: "lingchen@udel.edu"
 #twitter_username: jekyllrb
 github_username:  lingchen0331
 
-repository: "lingchen0331/rumor-diffusion-analysis"
+repository: "lingchen0331/conference-list"
 
 # Build settings
 plugins:
