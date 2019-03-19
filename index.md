@@ -24,22 +24,6 @@ title: Conference List for Future Reference
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>AAAI</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>Feb 7 - 12, 2020</td>
-      <td>New York, U.S.</td>
-    </tr>
-    <tr>
-      <th scope="row">2</th>
-      <td>INFOCOM</td>
-      <td>7/31/19</td>
-      <td>11/28/19</td>
-      <td>April 27 - 30, 2020</td>
-      <td>Beijing, China</td>
-    </tr>
-    <tr>
-      <th scope="row">3</th>
       <td>ICDCS</td>
       <td>1/5/19</td>
       <td>3/28/19</td>
@@ -47,15 +31,7 @@ title: Conference List for Future Reference
       <td>Dallas, Texas</td>
     </tr>
     <tr>
-      <th scope="row">4</th>
-      <td>NIPS</td>
-      <td>5/16/19</td>
-      <td>7/15/19</td>
-      <td>December 10 - 12, 2019</td>
-      <td>Vancouver, Canada</td>
-    </tr>
-    <tr>
-      <th scope="row">5</th>
+      <th scope="row">2</th>
       <td>ICML</td>
       <td>1/18/19</td>
       <td>4/24/19</td>
@@ -63,15 +39,7 @@ title: Conference List for Future Reference
       <td>Long Beach, CA</td>
     </tr>
     <tr>
-      <th scope="row">6</th>
-      <td>SIGMOD</td>
-      <td>10/18/18</td>
-      <td>1/19/18</td>
-      <td>June 30 - July 5, 2019</td>
-      <td>Amsterdam, The Netherlands</td>
-    </tr>
-    <tr>
-      <th scope="row">7</th>
+      <th scope="row">3</th>
       <td>KDD</td>
       <td>2/3/19</td>
       <td>4/28/19</td>
@@ -79,12 +47,44 @@ title: Conference List for Future Reference
       <td>Anchorage, Alaska</td>
     </tr>
     <tr>
-      <th scope="row">8</th>
+      <th scope="row">4</th>
       <td>IJCAI</td>
       <td>2/25/19</td>
       <td>5/9/19</td>
       <td>August 10 - 16, 2019</td>
       <td>Macao, China</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>NIPS</td>
+      <td>5/16/19</td>
+      <td>7/15/19</td>
+      <td>December 10 - 12, 2019</td>
+      <td>Vancouver, Canada</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>CIKM</td>
+      <td>5/15/19</td>
+      <td>8/6/19</td>
+      <td>November 3 - 7, 2019</td>
+      <td>Beijing, China</td>
+    </tr>
+    <tr>
+      <th scope="row">7</th>
+      <td>INFOCOM</td>
+      <td>7/31/19</td>
+      <td>11/28/19</td>
+      <td>April 27 - 30, 2020</td>
+      <td>Beijing, China</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
+      <td>AAAI</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Feb 7 - 12, 2020</td>
+      <td>New York, U.S.</td>
     </tr>
     <tr>
       <th scope="row">9</th>
@@ -96,11 +96,11 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">10</th>
-      <td>CIKM</td>
-      <td>5/15/19</td>
-      <td>8/6/19</td>
-      <td>November 3 - 7, 2019</td>
-      <td>Beijing, China</td>
+      <td>SIGMOD</td>
+      <td>10/18/18</td>
+      <td>1/19/18</td>
+      <td>June 30 - July 5, 2019</td>
+      <td>Amsterdam, The Netherlands</td>
     </tr>
   </tbody>
   <!--Table body-->
