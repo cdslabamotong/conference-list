@@ -96,6 +96,14 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">10</th>
+      <td>WSDM</td>
+      <td>8/8/18</td>
+      <td>10/24/18</td>
+      <td>Feb 11 - 15, 2020</td>
+      <td>New York, U.S.</td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
       <td>AAAI</td>
       <td>8/30/18</td>
       <td>11/1/18</td>
@@ -104,6 +112,14 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">11</th>
+      <td>ICWSM</td>
+      <td>9/15/18 OR 1/15/19</td>
+      <td>11/15/18 OR 3/15/19</td>
+      <td>June 12 - 14, 2019</td>
+      <td>Munich, Germany</td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
       <td>WWW</td>
       <td>10/29/18</td>
       <td>1/21/19</td>
@@ -111,7 +127,7 @@ title: Conference List for Future Reference
       <td>Taipei, China</td>
     </tr>
     <tr>
-      <th scope="row">12</th>
+      <th scope="row">13</th>
       <td>ICDE</td>
       <td>5/25/18 OR 10/8/18</td>
       <td>7/31/18 OR 12/14/18</td>
@@ -119,7 +135,7 @@ title: Conference List for Future Reference
       <td>Macau, China</td>
     </tr>
     <tr>
-      <th scope="row">13</th>
+      <th scope="row">14</th>
       <td>SIGMOD</td>
       <td>7/12/18 OR 10/18/18</td>
       <td>1/19/18</td>
