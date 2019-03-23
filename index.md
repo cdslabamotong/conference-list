@@ -89,23 +89,23 @@ title: Conference List for Future Reference
     <tr>
       <th scope="row">9</th>
       <td>AAAI</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td>8/30/18</td>
+      <td>11/1/18</td>
       <td>Feb 7 - 12, 2020</td>
       <td>New York, U.S.</td>
     </tr>
     <tr>
       <th scope="row">10</th>
       <td>WWW</td>
-      <td>N/A</td>
-      <td>N/A</td>
-      <td>N/A</td>
+      <td>10/29/18</td>
+      <td>1/21/19</td>
+      <td>May 13 - 17, 2019</td>
       <td>Taipei, China</td>
     </tr>
     <tr>
       <th scope="row">11</th>
       <td>SIGMOD</td>
-      <td>10/18/18</td>
+      <td>7/12/18 OR 10/18/18</td>
       <td>1/19/18</td>
       <td>June 30 - July 5, 2019</td>
       <td>Amsterdam, The Netherlands</td>
