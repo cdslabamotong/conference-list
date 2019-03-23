@@ -72,6 +72,14 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">7</th>
+      <td>ASONAM</td>
+      <td>4/17/19</td>
+      <td>6/14/19</td>
+      <td>August 27 - 30, 2019</td>
+      <td>Beijing, Canada</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
       <td>CIKM</td>
       <td>5/15/19</td>
       <td>8/6/19</td>
@@ -79,7 +87,7 @@ title: Conference List for Future Reference
       <td>Beijing, China</td>
     </tr>
     <tr>
-      <th scope="row">8</th>
+      <th scope="row">9</th>
       <td>INFOCOM</td>
       <td>6/5/19</td>
       <td>8/2/19</td>
@@ -87,7 +95,7 @@ title: Conference List for Future Reference
       <td>Beijing, China</td>
     </tr>
     <tr>
-      <th scope="row">9</th>
+      <th scope="row">10</th>
       <td>INFOCOM</td>
       <td>7/31/19</td>
       <td>11/28/19</td>
@@ -95,7 +103,7 @@ title: Conference List for Future Reference
       <td>Beijing, China</td>
     </tr>
     <tr>
-      <th scope="row">10</th>
+      <th scope="row">11</th>
       <td>WSDM</td>
       <td>8/8/18</td>
       <td>10/24/18</td>
@@ -103,7 +111,7 @@ title: Conference List for Future Reference
       <td>New York, U.S.</td>
     </tr>
     <tr>
-      <th scope="row">11</th>
+      <th scope="row">12</th>
       <td>AAAI</td>
       <td>8/30/18</td>
       <td>11/1/18</td>
@@ -111,7 +119,7 @@ title: Conference List for Future Reference
       <td>New York, U.S.</td>
     </tr>
     <tr>
-      <th scope="row">12</th>
+      <th scope="row">13</th>
       <td>ICWSM</td>
       <td>9/15/18 OR 1/15/19</td>
       <td>11/15/18 OR 3/15/19</td>
@@ -119,7 +127,7 @@ title: Conference List for Future Reference
       <td>Munich, Germany</td>
     </tr>
     <tr>
-      <th scope="row">13</th>
+      <th scope="row">14</th>
       <td>WWW</td>
       <td>10/29/18</td>
       <td>1/21/19</td>
@@ -127,7 +135,7 @@ title: Conference List for Future Reference
       <td>Taipei, China</td>
     </tr>
     <tr>
-      <th scope="row">14</th>
+      <th scope="row">15</th>
       <td>ICDE</td>
       <td>5/25/18 OR 10/8/18</td>
       <td>7/31/18 OR 12/14/18</td>
@@ -135,7 +143,7 @@ title: Conference List for Future Reference
       <td>Macau, China</td>
     </tr>
     <tr>
-      <th scope="row">15</th>
+      <th scope="row">16</th>
       <td>SIGMOD</td>
       <td>7/12/18 OR 10/18/18</td>
       <td>1/19/18</td>
