@@ -168,7 +168,7 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">19</th>
-      <td>ICDE</td>
+      <td>ICDE - R2</td>
       <td>10/8/18</td>
       <td>12/14/18</td>
       <td>April 8 - 11, 2019</td>
