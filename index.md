@@ -88,7 +88,7 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">9</th>
-      <td>INFOCOM</td>
+      <td>ICDM</td>
       <td>6/5/19</td>
       <td>8/2/19</td>
       <td>November 7 - 11, 2019</td>
