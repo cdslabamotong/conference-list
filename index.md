@@ -116,7 +116,7 @@ title: Conference List for Future Reference
       <td>July</td>
       <td>October</td>
       <td>June</td>
-      <td>EasyChair</td>
+      <td>Microsoft CMT</td>
     </tr>
     <tr>
       <th scope="row">13</th>
@@ -180,7 +180,7 @@ title: Conference List for Future Reference
       <td>October</td>
       <td>January</td>
       <td>June</td>
-      <td>EasyChair</td>
+      <td>Microsoft CMT</td>
     </tr>
   </tbody>
   <!--Table body-->
