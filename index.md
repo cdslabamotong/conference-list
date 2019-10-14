@@ -182,6 +182,14 @@ title: Conference List for Future Reference
       <td>June</td>
       <td>Microsoft CMT</td>
     </tr>
+    <tr>
+      <th scope="row">21</th>
+      <td>AAMAS</td>
+      <td>November</td>
+      <td>January</td>
+      <td>May</td>
+      <td>ConfMaster</td>
+    </tr>
   </tbody>
   <!--Table body-->
 </table>
