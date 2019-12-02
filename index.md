@@ -144,14 +144,22 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">16</th>
-      <td>AAAI</td>
+      <td>CSoNet</td>
       <td>August</td>
+      <td>September</td>
+      <td>November</td>
+      <td>EasyChair</td>
+    </tr>
+    <tr>
+      <th scope="row">17</th>
+      <td>AAAI</td>
+      <td>September</td>
       <td>November</td>
       <td>Feburary</td>
       <td>Microsoft CMT</td>
     </tr>
     <tr>
-      <th scope="row">17</th>
+      <th scope="row">18</th>
       <td>ICWSM - R1</td>
       <td>September</td>
       <td>November</td>
@@ -159,7 +167,7 @@ title: Conference List for Future Reference
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">18</th>
+      <th scope="row">19</th>
       <td>WWW</td>
       <td>October</td>
       <td>January</td>
@@ -167,7 +175,7 @@ title: Conference List for Future Reference
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">19</th>
+      <th scope="row">20</th>
       <td>ICDE - R2</td>
       <td>October</td>
       <td>December</td>
@@ -175,7 +183,7 @@ title: Conference List for Future Reference
       <td>Microsoft CMT</td>
     </tr>
     <tr>
-      <th scope="row">20</th>
+      <th scope="row">21</th>
       <td>SIGMOD - R2</td>
       <td>October</td>
       <td>January</td>
@@ -183,7 +191,7 @@ title: Conference List for Future Reference
       <td>Microsoft CMT</td>
     </tr>
     <tr>
-      <th scope="row">21</th>
+      <th scope="row">22</th>
       <td>AAMAS</td>
       <td>November</td>
       <td>January</td>
