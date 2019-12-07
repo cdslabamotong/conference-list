@@ -4,7 +4,7 @@ title: Conference List for Future Reference
 ---
 
 --------
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fcdslabamotong.github.io%2Fconference-list%2F)
 <!--Table-->
 <div class="row justify-content-center">
 <table id="tablePreview" class="table table-hover table-striped">
