@@ -80,6 +80,14 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">8</th>
+      <td>HT</td>
+      <td>March</td>
+      <td>May</td>
+      <td>July</td>
+      <td>EasyChair</td>
+    </tr>
+    <tr>
+      <th scope="row">8</th>
       <td>ASONAM</td>
       <td>April</td>
       <td>June</td>
